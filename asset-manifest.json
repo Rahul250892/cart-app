@@ -1,14 +1,13 @@
 {
-  "main.css": "/cart-app/static/css/main.09230b8f.chunk.css",
-  "main.js": "/cart-app/static/js/main.10388a4b.chunk.js",
-  "main.js.map": "/cart-app/static/js/main.10388a4b.chunk.js.map",
-  "static/js/1.ac795b08.chunk.js": "/cart-app/static/js/1.ac795b08.chunk.js",
-  "static/js/1.ac795b08.chunk.js.map": "/cart-app/static/js/1.ac795b08.chunk.js.map",
+  "main.css": "/cart-app/static/css/main.905d2eae.chunk.css",
+  "main.js": "/cart-app/static/js/main.6bf7c718.chunk.js",
+  "main.js.map": "/cart-app/static/js/main.6bf7c718.chunk.js.map",
+  "static/js/1.6462784e.chunk.js": "/cart-app/static/js/1.6462784e.chunk.js",
+  "static/js/1.6462784e.chunk.js.map": "/cart-app/static/js/1.6462784e.chunk.js.map",
   "runtime~main.js": "/cart-app/static/js/runtime~main.a7174c8d.js",
   "runtime~main.js.map": "/cart-app/static/js/runtime~main.a7174c8d.js.map",
-  "static/media/logo.svg": "/cart-app/static/media/logo.5d5d9eef.svg",
-  "static/css/main.09230b8f.chunk.css.map": "/cart-app/static/css/main.09230b8f.chunk.css.map",
+  "static/css/main.905d2eae.chunk.css.map": "/cart-app/static/css/main.905d2eae.chunk.css.map",
   "index.html": "/cart-app/index.html",
-  "precache-manifest.1e9b86e489e10364623813cf8f0c66ef.js": "/cart-app/precache-manifest.1e9b86e489e10364623813cf8f0c66ef.js",
+  "precache-manifest.87969e92216e64aec65533e7e6a1b572.js": "/cart-app/precache-manifest.87969e92216e64aec65533e7e6a1b572.js",
   "service-worker.js": "/cart-app/service-worker.js"
 }
